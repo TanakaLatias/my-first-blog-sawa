@@ -1,5 +1,5 @@
 .page-header {
-    background-color: skyblue;
+    background-color: lightgreen;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -60,12 +60,12 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #C25100;
+    color: green;
     background: none;
-    border-color: #C25100;
+    border-color: green;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: green;
 }
